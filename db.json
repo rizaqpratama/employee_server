@@ -11,7 +11,7 @@
     {
       "id" : 2,
       "name" : "Doe",
-      "age": "26",
+      "age": 26,
       "position": "Senior Developer",
       "salary": 20000,
       "description": "Test"
@@ -19,7 +19,7 @@
     {
       "id" : 3,
       "name" : "Keanu Reeves",
-      "age": "50",
+      "age": 50,
       "position": "CTO",
       "salary": 10000000,
       "description": "Test"
